@@ -5,7 +5,7 @@ Team Members/Contact Information:
 - Kawther (USERNAME_HERE)
 - Quintin (USERNAME_HERE)
 - Arla (USERNAME_HERE)
-- Isaac (USERNAME_HERE)
+- Isaac (IamGreenie)
 - Matthew (USERNAME_HERE)
 - Ian (USERNAME_HERE)
 - Abigayle (USERNAME_HERE)
