@@ -9,6 +9,6 @@ Team Members/Contact Information:
 - Matthew (USERNAME_HERE)
 - Ian (USERNAME_HERE)
 - Abigayle (USERNAME_HERE)
-- Bailey (USERNAME_HERE)
+- Bailey (Nonstopgoaty)
 - Christian (USERNAME_HERE)
 - Yugene (edu24ylee)
