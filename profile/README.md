@@ -3,7 +3,7 @@ Bit Bit Hooray!
 
 Team Members/Contact Information:
 - Kawther (USERNAME_HERE)
-- Quintin (USERNAME_HERE)
+- Quintin (Quintin Wood)
 - Arla (USERNAME_HERE)
 - Isaac (IamGreenie)
 - Matthew (USERNAME_HERE)
